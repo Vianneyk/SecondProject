@@ -16,6 +16,8 @@
 
 **D.E.V Jobs** is a web application for developers and recruiterd to find and advertise jobs.
 
+![Screenshot 2021-03-06 at 23 23 07](https://user-images.githubusercontent.com/68753820/111635029-fd812e80-87ee-11eb-941a-237e60f26440.png)
+
 ## Usage Information
 Once on the application, the user can search for a job using job title, skills and location and apply to them directly via email. 
 A recruiter is also able to post job adverts on the site.
